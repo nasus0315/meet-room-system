@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"title": "首页",
+			"path": "/home/index",
+			"parentId": 1,
+			"order": 0,
+			"icon": "home"
+		},
+		{
+			"id": 2,
+			"title": "会议室管理",
+			"path": "/room/index",
+			"parentId": 1,
+			"order": 1,
+			"icon": "room"
+		},
+		{
+			"id": 3,
+			"title": "预定管理",
+			"path": "/book/index",
+			"parentId": 1,
+			"order": 2,
+			"icon": "book"
+		},
+		{
+			"id": 4,
+			"title": "用户管理",
+			"path": "/user/index",
+			"parentId": 1,
+			"order": 3,
+			"icon": "user"
+		},
+		{
+			"id": 5,
+			"title": "统计",
+			"path": "/count/index",
+			"parentId": 1,
+			"order": 4,
+			"icon": "count"
+		}
+	]
+}
